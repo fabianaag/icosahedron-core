@@ -1,3 +1,5 @@
+![]( https://github.com/fabianaag/icosahedron-core/raw/master/images/logo-wide.png)
+
 # Icosahedron Project: Core
 The Icosahedron Project consists of an RPG Tabletop manager. Here is the REST API developed in Node.JS.
 
